@@ -2,8 +2,6 @@
 //  SceneDelegate.swift
 //  Notice
 //
-//  Created by 정유진 on 2022/10/26.
-//
 
 import UIKit
 
